@@ -1,3 +1,10 @@
+<!---
+File encryption without reversal shortcuts.
+Encrypt your Authorship private files and OTP keys.
+-->
+
+
+
 [Auditing in the browser?](https://coliru.stacked-crooked.com/a/da2cad235c00ba7f)
 
 <p align="center">
